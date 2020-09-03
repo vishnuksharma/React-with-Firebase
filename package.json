@@ -15,7 +15,7 @@
     "react-dom": "^15.6.2",
     "react-router-dom": "^4.2.2",
     "react-transition-group": "^2.2.1",
-    "serve": "^9.2.0",
+    "serve": "^11.3.2",
     "stylus": "0.54.5"
   },
   "scripts": {
